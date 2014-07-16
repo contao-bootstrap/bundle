@@ -1,0 +1,42 @@
+{
+    "name":"contao-bootstrap/bundle-all",
+    "description":"Install all modules of the Contao Bootstrap extension",
+    "keywords":["bootstrap", "contao"],
+    "type":"metapackage",
+    "license":"LGPL-3.0+",
+    "authors":[
+        {
+            "name":"David Molineus",
+            "email":"mail@netzmacht.de",
+            "homepage":"http://www.netzmacht.de",
+            "role":"Project leader"
+        }
+    ],
+    "support":{
+        "email":"mail@netzmacht.de",
+        "issues":"https://github.com/contao-bootstrap/bundle-all/issues",
+        "wiki":"http://contao-bootstrap.netzmacht.de",
+        "source":"https://github.com/contao-bootstrap/bundle-all"
+    },
+    "require":{
+        "contao-bootstrap/core":"*",
+        "contao-bootstrap/buttons":"*",
+        "contao-bootstrap/carousel":"*",
+        "contao-bootstrap/form":"*",
+        "contao-bootstrap/grid":"*",
+        "contao-bootstrap/layout":"*",
+        "contao-bootstrap/modal":"*",
+        "contao-bootstrap/navbar":"*",
+        "contao-bootstrap/navigation":"*",
+        "contao-bootstrap/panel":"*",
+        "contao-bootstrap/tab":"*"
+    },
+    "conflict": {
+        "netzmacht/contao-bootstrap": "*"
+    },
+    "extra":{
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
