@@ -1,5 +1,5 @@
 {
-    "name":"contao-bootstrap/bundle-all",
+    "name":"contao-bootstrap/bundle",
     "description":"Install all modules of the Contao Bootstrap extension",
     "keywords":["bootstrap", "contao"],
     "type":"metapackage",
@@ -20,16 +20,10 @@
     },
     "require":{
         "contao-bootstrap/core":"*",
-        "contao-bootstrap/buttons":"*",
-        "contao-bootstrap/carousel":"*",
-        "contao-bootstrap/form":"*",
-        "contao-bootstrap/grid":"*",
+        "contao-bootstrap/components":"*",
         "contao-bootstrap/layout":"*",
-        "contao-bootstrap/modal":"*",
-        "contao-bootstrap/navbar":"*",
-        "contao-bootstrap/navigation":"*",
-        "contao-bootstrap/panel":"*",
-        "contao-bootstrap/tab":"*"
+        "contao-bootstrap/grid-editor":"*",
+        "contao-bootstrap/form":"*"
     },
     "conflict": {
         "netzmacht/contao-bootstrap": "*"
