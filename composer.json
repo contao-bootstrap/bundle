@@ -14,9 +14,9 @@
     ],
     "support":{
         "email":"mail@netzmacht.de",
-        "issues":"https://github.com/contao-bootstrap/bundle-all/issues",
+        "issues":"https://github.com/contao-bootstrap/bundle/issues",
         "wiki":"http://contao-bootstrap.netzmacht.de",
-        "source":"https://github.com/contao-bootstrap/bundle-all"
+        "source":"https://github.com/contao-bootstrap/bundle"
     },
     "require":{
         "contao-bootstrap/core":"*",
