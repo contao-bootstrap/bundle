@@ -23,7 +23,8 @@
         "contao-bootstrap/components":"*",
         "contao-bootstrap/layout":"*",
         "contao-bootstrap/grid-editor":"*",
-        "contao-bootstrap/form":"*"
+        "contao-bootstrap/form":"*",
+        "contao-bootstrap/templates":"*"
     },
     "conflict": {
         "netzmacht/contao-bootstrap": "*"
