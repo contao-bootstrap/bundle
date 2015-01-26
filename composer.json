@@ -19,15 +19,21 @@
         "source":"https://github.com/contao-bootstrap/bundle"
     },
     "require":{
+        "contao-bootstrap/buttons":"*",
         "contao-bootstrap/core":"*",
-        "contao-bootstrap/components":"*",
-        "contao-bootstrap/layout":"*",
-        "contao-bootstrap/grid-editor":"*",
+        "contao-bootstrap/carousel":"*",
         "contao-bootstrap/form":"*",
+        "contao-bootstrap/grid-editor":"*",
+        "contao-bootstrap/layout":"*",
+        "contao-bootstrap/modal":"*",
+        "contao-bootstrap/navigation":"*",
+        "contao-bootstrap/panel":"*",
+        "contao-bootstrap/tab":"*",
         "contao-bootstrap/templates":"*"
     },
     "conflict": {
-        "netzmacht/contao-bootstrap": "*"
+        "netzmacht/contao-bootstrap": "*",
+        "contao-bootstrap/components": "*"
     },
     "extra":{
         "branch-alias": {
