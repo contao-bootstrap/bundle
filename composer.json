@@ -19,9 +19,9 @@
         "source":"https://github.com/contao-bootstrap/bundle"
     },
     "require":{
-        "contao-bootstrap/core":"~2.0.0-alpha1",
-        "contao-bootstrap/layout":"~2.0.0-alpha1",
-        "contao-bootstrap/navbar":"~2.0.0-alpha1"
+        "contao-bootstrap/core":"~2.0.0@alpha",
+        "contao-bootstrap/layout":"~2.0.0@alpha",
+        "contao-bootstrap/navbar":"~2.0.0@alpha"
     },
     "conflict": {
         "netzmacht/contao-bootstrap": "*",
