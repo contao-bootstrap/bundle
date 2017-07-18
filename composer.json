@@ -21,7 +21,8 @@
     "require":{
         "contao-bootstrap/core":"~2.0.0@alpha",
         "contao-bootstrap/layout":"~2.0.0@alpha",
-        "contao-bootstrap/navbar":"~2.0.0@alpha"
+        "contao-bootstrap/navbar":"~2.0.0@alpha",
+        "contao-bootstrap/grid":"~2.0.0@alpha"
     },
     "conflict": {
         "netzmacht/contao-bootstrap": "*",
