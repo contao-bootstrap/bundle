@@ -2,7 +2,7 @@
     "name":"contao-bootstrap/bundle",
     "description":"Install all modules of the Contao Bootstrap extension",
     "keywords":["bootstrap", "contao"],
-    "type":"contao-bundle",
+    "type":"metapackage",
     "license":"LGPL-3.0+",
     "authors":[
         {
