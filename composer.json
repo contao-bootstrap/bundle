@@ -8,8 +8,8 @@
         {
             "name":"David Molineus",
             "email":"mail@netzmacht.de",
-            "homepage":"http://www.netzmacht.de",
-            "role":"Project leader"
+            "homepage":"https://netzmacht.de",
+            "role":"Developer"
         }
     ],
     "support":{
@@ -19,25 +19,23 @@
         "source":"https://github.com/contao-bootstrap/bundle"
     },
     "require":{
-        "contao-bootstrap/buttons":"*",
-        "contao-bootstrap/core":"*",
-        "contao-bootstrap/carousel":"*",
-        "contao-bootstrap/form":"*",
-        "contao-bootstrap/grid-editor":"*",
-        "contao-bootstrap/layout":"*",
-        "contao-bootstrap/modal":"*",
-        "contao-bootstrap/navigation":"*",
-        "contao-bootstrap/panel":"*",
-        "contao-bootstrap/tab":"*",
-        "contao-bootstrap/templates":"*"
+        "contao-bootstrap/core":"~2.0",
+        "contao-bootstrap/layout":"~2.0",
+        "contao-bootstrap/navbar":"~2.0",
+        "contao-bootstrap/grid":"~2.0",
+        "contao-bootstrap/form":"~2.0"
     },
     "conflict": {
         "netzmacht/contao-bootstrap": "*",
         "contao-bootstrap/components": "*"
     },
+    "require-dev": {
+        "phpcq/all-tasks": "^1.2"
+    },
     "extra":{
         "branch-alias": {
-            "dev-master": "1.0.x-dev"
+            "dev-master": "2.0.x-dev",
+            "dev-support/1.x": "1.0.x-dev"
         }
     }
 }
