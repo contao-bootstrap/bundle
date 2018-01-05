@@ -19,11 +19,11 @@
         "source":"https://github.com/contao-bootstrap/bundle"
     },
     "require":{
-        "contao-bootstrap/core":"~2.0.0@beta",
-        "contao-bootstrap/layout":"~2.0.0@beta",
-        "contao-bootstrap/navbar":"~2.0.0@beta",
-        "contao-bootstrap/grid":"~2.0.0@beta",
-        "contao-bootstrap/form":"~2.0.0@beta"
+        "contao-bootstrap/core":"~2.0",
+        "contao-bootstrap/layout":"~2.0",
+        "contao-bootstrap/navbar":"~2.0",
+        "contao-bootstrap/grid":"~2.0",
+        "contao-bootstrap/form":"~2.0"
     },
     "conflict": {
         "netzmacht/contao-bootstrap": "*",
@@ -34,8 +34,8 @@
     },
     "extra":{
         "branch-alias": {
-            "dev-master": "1.0.x-dev",
-            "dev-release/2.0.0": "2.0.x-dev"
+            "dev-master": "2.0.x-dev",
+            "dev-support/1.x": "1.0.x-dev"
         }
     }
 }
