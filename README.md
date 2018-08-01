@@ -18,6 +18,9 @@ Features
  - Grid 
  - Form
  - Navbar
+ - Tab
+ - Panel
+ - Templates
  
 Changelog
 ---------

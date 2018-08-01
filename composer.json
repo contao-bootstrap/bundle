@@ -23,14 +23,18 @@
         "contao-bootstrap/layout":"~2.0",
         "contao-bootstrap/navbar":"~2.0",
         "contao-bootstrap/grid":"~2.0",
-        "contao-bootstrap/form":"~2.0"
+        "contao-bootstrap/form":"~2.0",
+        "contao-bootstrap/panel":"~2.0",
+        "contao-bootstrap/tab":"~2.0",
+        "contao-bootstrap/templates":"~2.0"
     },
     "conflict": {
         "netzmacht/contao-bootstrap": "*",
         "contao-bootstrap/components": "*"
     },
     "require-dev": {
-        "phpcq/all-tasks": "^1.2"
+        "phpcq/all-tasks": "^1.2",
+        "php-http/guzzle6-adapter": "^1.1"
     },
     "extra":{
         "branch-alias": {
