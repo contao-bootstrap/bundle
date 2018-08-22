@@ -3,7 +3,7 @@
     "description":"Install all modules of the Contao Bootstrap extension",
     "keywords":["bootstrap", "contao"],
     "type":"metapackage",
-    "license":"LGPL-3.0+",
+    "license":"LGPL-3.0-or-later",
     "authors":[
         {
             "name":"David Molineus",
@@ -38,7 +38,7 @@
     },
     "extra":{
         "branch-alias": {
-            "dev-master": "2.0.x-dev",
+            "dev-master": "2.1.x-dev",
             "dev-support/1.x": "1.0.x-dev"
         }
     }
