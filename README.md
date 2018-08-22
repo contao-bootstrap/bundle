@@ -2,11 +2,10 @@ Contao-Bootstrap Bundle
 =======================
 
 [![Version](http://img.shields.io/packagist/v/contao-bootstrap/bundle.svg?style=for-the-badge&label=Latest)](http://packagist.org/packages/contao-bootstrap/bundle)
-[![GitHub issues](https://img.shields.io/github/issues/beberlei/assert.svg?style=for-the-badge&logo=github)](https://github.com/beberlei/assert/issues)
+[![GitHub issues](https://img.shields.io/github/issues/contao-bootstrap/bundle.svg?style=for-the-badge&logo=github)](https://github.com/contao-bootstrap/bundle/issues)
 [![License](http://img.shields.io/packagist/l/contao-bootstrap/bundle.svg?style=for-the-badge&label=License)](http://packagist.org/packages/contao-bootstrap/bundle)
 [![Build Status](http://img.shields.io/travis/contao-bootstrap/bundle/master.svg?style=for-the-badge&logo=travis)](https://travis-ci.org/contao-bootstrap/bundle)
-[![Downloads](http://img.shields.io/packagist/dt/contao-bootstrap/bundle.svg?style=for-the-badge&label=Total+downloads)](http://packagist.org/packages/contao-bootstrap/bundle)
-[![Contao Community Alliance coding standard](http://img.shields.io/badge/cca-coding_standard-red.svg?style=for-the-badge)](https://github.com/contao-community-alliance/coding-standard)
+[![Downloads](http://img.shields.io/packagist/dt/contao-bootstrap/bundle.svg?style=for-the-badge&label=Downloads)](http://packagist.org/packages/contao-bootstrap/bundle)
 
 This extension is a metapackages which includes all bootstrap components for Contao CMS.
 
