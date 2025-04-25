@@ -19,27 +19,23 @@
         "source":"https://github.com/contao-bootstrap/bundle"
     },
     "require":{
-        "contao-bootstrap/core":"~2.0",
-        "contao-bootstrap/layout":"~2.0",
-        "contao-bootstrap/navbar":"~2.0",
-        "contao-bootstrap/grid":"~2.0",
-        "contao-bootstrap/form":"~2.0",
-        "contao-bootstrap/panel":"~2.0",
-        "contao-bootstrap/tab":"~2.0",
-        "contao-bootstrap/templates":"~2.0"
+        "contao-bootstrap/accordion":"^3.0",
+        "contao-bootstrap/core":"^3.0",
+        "contao-bootstrap/layout":"^3.0",
+        "contao-bootstrap/navbar":"^3.0",
+        "contao-bootstrap/grid":"^3.0",
+        "contao-bootstrap/form":"^3.0",
+        "contao-bootstrap/tab":"^3.0",
+        "contao-bootstrap/templates":"^3.0"
     },
     "conflict": {
         "netzmacht/contao-bootstrap": "*",
         "contao-bootstrap/components": "*"
     },
-    "require-dev": {
-        "phpcq/all-tasks": "^1.2",
-        "php-http/guzzle6-adapter": "^1.1"
-    },
     "extra":{
         "branch-alias": {
-            "dev-master": "2.1.x-dev",
-            "dev-support/1.x": "1.0.x-dev"
+            "dev-master": "3.0.x-dev",
+            "dev-support/2.x": "2.x-dev"
         }
     }
 }
